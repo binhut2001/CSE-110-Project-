@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About Me!
+
+My name is Dat Nguyen and I am a 2nd year CS student at UC San Diego.
 
 You can use the [editor on GitHub](https://github.com/binhut2001/CSE-110-Project-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
