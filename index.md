@@ -1,6 +1,7 @@
 ## About Me!
 
-My name is Dat Nguyen and I am a 2nd year CS student at UC San Diego.
+My name is Dat Nguyen and I am a 2nd year CS student at UC San Diego. My current goal is to explore 
+as many fields of computer science as I can so I can decide what I want to specialize in.
 
 ### Markdown
 
