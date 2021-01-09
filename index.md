@@ -25,4 +25,4 @@ as many fields of computer science as I can so I can decide what I want to speci
 - My favorite website to practice coding is [LeetCode](https://leetcode.com/)
 
 
-** Thank-you for taking your time to look at my Github Page! **
+**Thank-you for taking your time to look at my Github Page!**
