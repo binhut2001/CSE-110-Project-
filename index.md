@@ -3,10 +3,12 @@
 My name is Dat Nguyen and I am a 2nd year CS student at UC San Diego. My current goal is to explore 
 as many fields of computer science as I can so I can decide what I want to specialize in.
 
-### Markdown
+### Hobbies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- I like to play tennis with my friends.
+- I am into trading card games.
+- I am a foodies and will travel for food.
+![Tennis](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg)
 ```markdown
 Syntax highlighted code block
 
