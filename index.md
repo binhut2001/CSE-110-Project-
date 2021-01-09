@@ -6,9 +6,11 @@ as many fields of computer science as I can so I can decide what I want to speci
 ### Hobbies
 
 - I like to play tennis with my friends.
-- I am into trading card games.
-- I am a foodies and will travel for food.
+
 ![Tennis](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg) 
+
+- I am a foodies and will travel for food.
+
 ![Food](https://wonect.life/wp-content/uploads/2020/04/ichiran-ramen-test.png)
 ```markdown
 Syntax highlighted code block
