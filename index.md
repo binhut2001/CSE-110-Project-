@@ -10,7 +10,7 @@ as many fields of computer science as I can so I can decide what I want to speci
 
 - I like to play tennis with my friends.
 
-![Tennis|250x250](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg)
+<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg" alt="Tennis" height="250" width="250"/>
 
 - I am a foodies and will travel for food.
 
