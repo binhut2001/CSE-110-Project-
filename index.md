@@ -14,7 +14,7 @@ as many fields of computer science as I can so I can decide what I want to speci
 
 - I am a foodies and will travel for food.
 
-<img src="https://wonect.life/wp-content/uploads/2020/04/ichiran-ramen-test.png" alt="Food" height"250" width="400"/>
+<img src="https://wonect.life/wp-content/uploads/2020/04/ichiran-ramen-test.png" alt="Food" height="250" width="400"/>
 
 ### Fun Facts:
 - I'm from Vietnam and migrated here in 2011.
