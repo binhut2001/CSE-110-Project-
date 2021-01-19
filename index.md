@@ -10,11 +10,11 @@ as many fields of computer science as I can so I can decide what I want to speci
 
 - I like to play tennis with my friends.
 
-<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg" alt="Tennis" height="250" width="250"/>
+<img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg" alt="Tennis" height="250" width="400"/>
 
 - I am a foodies and will travel for food.
 
-![Food](https://wonect.life/wp-content/uploads/2020/04/ichiran-ramen-test.png)
+<img src="https://wonect.life/wp-content/uploads/2020/04/ichiran-ramen-test.png" alt="Food" height"250" width="400"/>
 
 ### Fun Facts:
 - I'm from Vietnam and migrated here in 2011.
