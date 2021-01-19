@@ -10,7 +10,7 @@ as many fields of computer science as I can so I can decide what I want to speci
 
 - I like to play tennis with my friends.
 
-![Tennis](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg =250x250) 
+![Tennis|250x250](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1019041262%2F0x0.jpg)
 
 - I am a foodies and will travel for food.
 
@@ -22,7 +22,8 @@ as many fields of computer science as I can so I can decide what I want to speci
 - I fell off of a two-story building without breaking a single bone.
 
 ## Me as a CS Student
-- I'm most confident in C++ and Java.
+- I'm most proficient in C++ and Java.
+- Basic knowledge of HTML & CSS but able to learn quickly.
 - I'm looking to get into more specialzied fields such as Web dev, UX/UI designer, and more.
 - Currently in my first ever software developing class to learn about what it's like to be a Software Engineer.
 - My favorite website to practice coding is [LeetCode](https://leetcode.com/)
